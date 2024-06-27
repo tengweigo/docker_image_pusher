@@ -1,3 +1,4 @@
-redis:alpine
-nvcr.io/nvidia/pytorch:23.12-py3
-node:18-alpine
+jitsi/web:stable-9457-2
+jitsi/prosody:stable-9457-2
+jitsi/jicofo:stable-9457-2
+jitsi/jvb:stable-9457-2
