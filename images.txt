@@ -1,4 +1,1 @@
-jitsi/web:stable-9457-2
-jitsi/prosody:stable-9457-2
-jitsi/jicofo:stable-9457-2
-jitsi/jvb:stable-9457-2
+ghcr.io/jeessy2/ddns-go:v6.6.4
